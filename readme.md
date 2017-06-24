@@ -1,4 +1,6 @@
-## Source Cheetah
+# Content Management System
+
+## Installation
 
 To configure, run `composer install`
 
